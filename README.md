@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript,HTML,CSS,JAVA,Spring Boot,MySql**
 
-- 📫 How to reach me **vivekmohansingh27@gmail.com** - 📫 How to reach me on LinkedIn**[vivekmohansingh27@gmail.com](https://www.linkedin.com/in/vivek-mohan-singh-18b63b256/)**
+- 📫 How to reach me **vivekmohansingh27@gmail.com** - 📫 How to reach me on LinkedIn**https://www.linkedin.com/in/vivek-mohan-singh-18b63b256/**
 
 <h3 align="left">Connect with me:</h3>
 
